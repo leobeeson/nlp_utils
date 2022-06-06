@@ -1,0 +1,703 @@
+﻿Rank ,Word ,Meaning ,Word form ,Inflected forms 
+1,string,cs,n,strings
+2,integer,cs,n,integers
+3,instruction,cs,n,instructions
+4,statement,cs,n,statements
+5,sensor,cs,n,sensors
+6,disk,cs,n,disks
+7,register,cs,n,registered
+8,theorem,math,n,theorems
+9,byte,cs,n,bytes
+10,thread,,n,threads
+11,heap,cs,n,heaps
+12,accept,cs,v,"accepted, accepting, accepts"
+13,trajectory,math,n,trajectories
+14,privacy,cs,n,privacies
+15,video,cs,n,videos
+16,attacker,,n,attackers
+17,pointer,cs,n,pointers
+18,mesh,cs,n,meshed
+19,password,cs,n,passwords
+20,hash,,n,hashes
+21,display,cs,n,displays
+22,void,,n,voids
+23,programmer,cs,n,programmers
+24,vulnerability,cs,n,vulnerabilities
+25,fault,cs,n,faults
+26,provider,,n,providers
+27,digit,math,n,digits
+28,insertion,,n,insertions
+29,queue,cs,n,queues
+30,lock,cs,n,locks
+31,merge,,v,"merging, merged, merges"
+32,encryption,cs,n,encryptions
+33,malware,cs,n,
+34,radius,cs,n,"radii, radiuses"
+35,correlation,cs,n,correlations
+36,height,cs,n,heights
+37,pipeline,,n,pipelines
+38,classifier,,n,classifiers
+39,invoke,,v,"invokes, invoked, invoking"
+40,circuit,cs,n,circuits
+41,assembly,,n,assemblies
+42,directory,cs,n,directories
+43,lemma,math,n,lemmas
+44,packet,cs,n,packets
+45,recursive,cs,adj,
+46,listing,cs,n,listings
+47,methodology,cs,n,methodologies
+48,virtualization,,n,"virtualisation, virtualisations, virtualizations"
+49,polynomial,cs,adj,
+50,ray,math,n,rays
+51,overlay,cs,n,overlays
+52,bandwidth,cs,n,bandwidths
+53,botnet,cs,n,botnets
+54,expansion,cs,n,expansions
+55,compression,cs,n,compressions
+56,proposition,math,n,propositions
+57,scheduling,,n,
+58,insert,cs,n,inserts
+59,semantic,,adj,
+60,tape,cs,n,tapes
+61,vertices,,n,
+62,variance,cs,n,variances
+63,reliability,cs,n,reliabilities
+64,unsigned,cs,adj,
+65,censorship,,n,
+66,density,cs,n,densities
+67,modeling,,n,
+68,latency,cs,n,latencies
+69,import,,n,imports
+70,migration,,n,migrations
+71,tensor,math,n,tensors
+72,subproblem,,n,subproblems
+73,mining,,n,
+74,deviation,math,n,deviations
+75,pricing,,n,
+76,geometry,math,n,geometries
+77,scanner,cs,n,scanners
+78,pane,,n,panes
+79,subtree,cs,n,subtrees
+80,sense,cs,v,"senses, sensed, sensing"
+81,warp,,n,warps
+82,routine,cs,n,routines
+83,recurrence,cs,n,recurrences
+84,usability,,n,
+85,rank,cs,n,ranks
+86,induction,cs,n,inductions
+87,coin,,n,coins
+88,encrypt,,v,"encrypts, encrypted, encrypting"
+89,mod,cs,n,mods
+90,clause,,n,clauses
+91,math,,n,maths
+92,constructor,,n,constructors
+93,complement,cs,n,complements
+94,pixel,cs,n,pixels
+95,particle,math,n,particles
+96,hash,,v,"hashes, hashed, hashing"
+97,mathematics,math,n,
+98,triangle,math,n,triangles
+99,email,cs,n,emails
+100,patch,cs,n,patches
+101,print,,n,prints
+102,jump,cs,n,jumps
+103,wire,,n,wires
+104,creator,,n,creators
+105,floating,,adj,
+106,recursion,cs,n,recursions
+107,prompt,cs,v,"prompted, prompts, prompting"
+108,gesture,cs,n,gestures
+109,quantifier,cs,n,quantifiers
+110,propagation,,n,propagations
+111,leaf,cs,n,"leaves, leafs"
+112,grammar,cs,n,grammars
+113,amortize,,v,"amortized, amortizing, amortizes, amortised, amortising, amortises"
+114,operand,cs,n,operands
+115,animation,cs,n,animations
+116,button,cs,n,buttons
+117,suffix,cs,n,suffixes
+118,quicksort,cs,n,quicksorts
+119,defense,,n,defenses
+120,wireless,cs,n,wirelesses
+121,nil,,n,nils
+122,handler,,n,handlers
+123,scheduler,cs,n,schedulers
+124,ontology,cs,n,ontologies
+125,reuse,,n,reuses
+126,tactile,,adj,
+127,needle,,n,needles
+128,boolean,,adj,
+129,deformation,,n,deformations
+130,decimal,,adj,
+131,hazard,cs,n,hazards
+132,governance,,n,governances
+133,rational,,adj,
+134,binomial,math,adj,
+135,segmentation,,n,segmentations
+136,mobility,,n,mobilities
+137,sink,math,n,sinks
+138,flag,cs,n,flags
+139,cyber,,adj,
+140,taint,,n,taints
+141,inject,,v,"injecting, injected, injects"
+142,predicate,cs,n,predicates
+143,meter,,n,meters
+144,polynomial,cs,n,polynomials
+145,orientation,,n,orientations
+146,joint,,n,joints
+147,injection,cs,n,injections
+148,deletion,,n,deletions
+149,prefix,cs,n,prefixes
+150,hypervisor,cs,n,hypervisors
+151,decode,,v,"decoded, decoding, decodes"
+152,routing,cs,n,routings
+153,organizational,,adj,organisational
+154,divide,,n,divides
+155,tuple,cs,n,tuples
+156,modulo,,n,moduli
+157,gadget,,n,gadgets
+158,certificate,cs,n,certificates
+159,architectural,,adj,
+160,inductive,,adj,
+161,semantics,cs,n,
+162,contradiction,cs,n,contradictions
+163,subsequence,cs,n,subsequences
+164,subarray,,n,subarrays
+165,orchestration,,n,orchestrations
+166,acceleration,math,n,accelerations
+167,histogram,cs,n,histograms
+168,module,cs,n,modules
+169,radar,,n,radars
+170,authentication,cs,n,
+171,agile,,adj,
+172,slice,cs,n,slices
+173,exploit,,n,exploits
+174,rate,cs,v,"rates, rated, rating"
+175,plot,math,v,"plots, plotting, plotted"
+176,tip,cs,n,tips
+177,blog,cs,n,blogs
+178,ethical,,adj,
+179,decidable,math,adj,
+180,strut,math,n,struts
+181,calendar,,n,calendars
+182,polygon,math,n,polygons
+183,numeric,,adj,
+184,transportation,,n,transportations
+185,voltage,,n,voltages
+186,handle,cs,n,handles
+187,solver,,n,solvers
+188,subclass,,n,subclasses
+189,pivot,math,n,pivots
+190,delete,cs,n,deletes
+191,judgment,,n,judgments
+192,enforcement,,n,enforcements
+193,neighborhood,,n,neighborhoods
+194,rod,math,n,rods
+195,correlate,,v,"correlated, correlating, correlates"
+196,negation,cs,n,negations
+197,documentation,cs,n,documentations
+198,rout,,v,"routing, routed, routs"
+199,token,cs,n,tokens
+200,worm,cs,n,worms
+201,flip,,n,flips
+202,successor,,n,successors
+203,hexadecimal,,n,hexadecimals
+204,clone,cs,n,clones
+205,convergence,cs,n,convergences
+206,atomic,,adj,
+207,navigation,,n,navigations
+208,lens,,n,lenses
+209,wait,,n,waits
+210,recommender,,n,recommenders
+211,pump,,v,"pumps, pumped, pumping"
+212,nondeterministic,,adj,
+213,drift,,n,drifts
+214,maximal,,adj,
+215,intrusion,,n,intrusions
+216,stochastic,,adj,
+217,interpolation,cs,n,interpolations
+218,symmetry,,n,symmetries
+219,novice,,n,novices
+220,norm,cs,n,norms
+221,join,,n,joins
+222,fetch,,v,"fetched, fetching, fetches"
+223,interference,,n,interferences
+224,guess,,n,guesses
+225,divisor,math,n,divisors
+226,deadline,,n,deadlines
+227,bot,cs,n,bots
+228,spam,cs,n,spams
+229,schema,cs,n,"schemas, schemata"
+230,latent,,adj,
+231,propositional,,adj,
+232,congruence,,n,congruences
+233,median,cs,n,medians
+234,interoperability,cs,n,
+235,localization,cs,n,"localizations, localisation, localisations"
+236,throughput,cs,n,throughputs
+237,legacy,,n,legacies
+238,probe,,v,"probed, probing, probes"
+239,declaration,cs,n,declarations
+240,stakeholder,,n,stakeholders
+241,superclass,,n,superclasses
+242,automaton,cs,n,automatons
+243,fusion,,n,fusions
+244,cognitive,,adj,
+245,printing,,n,printings
+246,resilience,,n,
+247,congestion,,n,congestions
+248,hologram,,n,holograms
+249,probe,,n,probes
+250,literal,cs,n,literals
+251,cipher,cs,n,ciphers
+252,override,,n,overrides
+253,asymptotic,cs,adj,
+254,login,cs,n,logins
+255,interpolate,,v,"interpolating, interpolates, interpolated"
+256,license,,n,licenses
+257,iterator,,n,iterators
+258,float,cs,n,floats
+259,invariant,cs,n,invariants
+260,aggregate,math,v,"aggregates, aggregated, aggregating"
+261,compound,,adj,
+262,grain,,v,"grains, grained, graining"
+263,quadratic,,adj,
+264,indoor,,adj,
+265,deformable,,adj,
+266,pseudocode,cs,n,pseudocodes
+267,find,cs,n,finds
+268,factorization,,n,factorisation
+269,intellectual,,adj,
+270,relevance,,n,relevances
+271,phishing,cs,n,
+272,loop,cs,v,"loops, looping, looped"
+273,hacker,cs,n,hackers
+274,stage,,v,"stages, staged, staging"
+275,patient,,adj,
+276,spin,,n,spins
+277,gram,math,n,grams
+278,covariance,cs,n,covariances
+279,pose,,n,poses
+280,elastic,math,adj,
+281,automata,,n,
+282,texture,,n,textures
+283,bubble,,n,bubbles
+284,divisible,math,adj,
+285,gradient,math,n,gradients
+286,parity,cs,n,parities
+287,deck,,n,decks
+288,hop,cs,n,hops
+289,trap,cs,n,traps
+290,redundancy,cs,n,redundancies
+291,adversary,,n,adversaries
+292,multiprocessor,cs,n,multiprocessors
+293,zoom,,v,"zooming, zooms, zoomed"
+294,confidentiality,cs,n,
+295,undirected,,adj,
+296,decryption,cs,n,decryptions
+297,perception,cs,n,perceptions
+298,mathematician,,n,mathematicians
+299,dual,cs,adj,
+300,virus,cs,n,viruses
+301,quantification,,n,quantifications
+302,virtue,,n,virtues
+303,jammer,,n,jammers
+304,rigid,,adj,
+305,puzzle,,n,puzzles
+306,descriptor,cs,n,descriptors
+307,keyword,cs,n,keywords
+308,tissue,,n,tissues
+309,branch,cs,v,"branches, branched, branching"
+310,neutrality,,n,
+311,synchronization,cs,n,synchronisation
+312,diagonal,,adj,
+313,commerce,,n,
+314,stability,cs,n,stabilities
+315,conquer,,v,"conquered, conquers, conquering"
+316,patent,cs,n,patents
+317,enter,,n,enters
+318,optical,,adj,
+319,concurrency,cs,n,concurrencies
+320,geolocation,,n,geolocations
+321,calibration,,n,calibrations
+322,overwrite,cs,v,"overwrites, overwrote, overwritten, overwriting"
+323,jamming,,n,
+324,accelerometer,,n,accelerometers
+325,facial,,adj,
+326,app,cs,n,apps
+327,axiom,cs,n,axioms
+328,TRUE,,n,
+329,surveillance,,n,surveillances
+330,confidential,,adj,
+331,appliance,,n,appliances
+332,hex,cs,n,hexes
+333,proxy,cs,n,proxies
+334,textual,,adj,
+335,proof,cs,adj,
+336,ciphertext,cs,n,
+337,reusable,,adj,
+338,current,,n,currents
+339,pipeline,,v,"pipelines, pipelining, pipelined"
+340,catch,,n,catches
+341,footer,,n,footers
+342,mobile,,n,mobiles
+343,granularity,cs,n,
+344,summation,,n,summations
+345,download,cs,n,downloads
+346,ecosystem,,n,ecosystems
+347,conjecture,,n,conjectures
+348,multipath,,n,
+349,spin,,v,"spun, spinning, spins"
+350,idle,,adj,
+351,exponent,cs,n,exponents
+352,contingency,,n,contingencies
+353,wrapper,,n,wrappers
+354,eigenvalue,math,n,eigenvalues
+355,plaintext,cs,n,
+356,gateway,cs,n,gateways
+357,deadlock,cs,n,deadlocks
+358,defect,,n,defects
+359,magnetic,,adj,
+360,docker,,n,dockers
+361,express,math,v,"expressed, expresses, expressing"
+362,scalar,cs,adj,
+363,unsafe,,adj,
+364,duplicate,,adj,
+365,amplitude,cs,n,amplitudes
+366,ethic,,n,
+367,scatter,,n,scatters
+368,spanner,,n,spanners
+369,malware,cs,adj,
+370,offline,cs,adj,
+371,substitution,cs,n,substitutions
+372,smooth,math,v,"smooths, smoothing, smoothed"
+373,behavioral,,adj,
+374,page,cs,v,"pages, paged, paging"
+375,builder,,n,builders
+376,undecidable,cs,adj,
+377,blob,,n,blobs
+378,guest,cs,adj,
+379,constitute,,v,"constitutes, constituted, constituting"
+380,respective,,adj,
+381,systematic,,adj,
+382,outperform,,v,"outperforming, outperformed, outperforms"
+383,marker,cs,n,markers
+384,color,,v,"colors, coloring, colored, colour, colours, colouring"
+385,missing,,adj,
+386,thickness,,n,thicknesses
+387,convex,math,adj,
+388,satisfiability,cs,n,
+389,menu,cs,n,menus
+390,disjunction,cs,n,disjunctions
+391,lock,cs,adj,
+392,combine,,n,combines
+393,complicate,,v,"complicated, complicating, complicates"
+394,differentiate,,v,"differentiating, differentiated, differentiates"
+395,compete,,v,"competed, competing, competes"
+396,dense,,adj,
+397,successive,,adj,
+398,caller,,n,callers
+399,engineer,,v,"engineers, engineered, engineering"
+400,battery,,n,batteries
+401,questionnaire,,n,questionnaires
+402,migrate,,v,"migrates, migrating, migrated"
+403,lottery,,n,lotteries
+404,double,,n,doubles
+405,fetch,,n,fetches
+406,inverse,cs,adj,
+407,converge,,v,"converging, converged, converges"
+408,slide,,v,"slides, slid, sliding"
+409,enhancement,,n,enhancements
+410,informal,,adj,
+411,synthesis,,n,syntheses
+412,cue,,n,cues
+413,indexing,,n,
+414,contextual,,adj,
+415,semaphore,cs,n,semaphores
+416,thinner,,n,thinners
+417,tetrahedra,,n,
+418,extended,,adj,
+419,intensive,,adj,
+420,manufacturing,,n,
+421,induce,,v,"induced, induces, inducing"
+422,decompose,math,v,"decomposing, decomposes, decomposed"
+423,intuition,,n,intuitions
+424,outgoing,,adj,
+425,super,,adj,
+426,anonymity,,n,
+427,ellipse,math,n,ellipses
+428,halt,cs,n,halts
+429,fork,,n,forks
+430,locally,,adv,
+431,grade,,n,grades
+432,gender,,n,genders
+433,dissemination,,n,
+434,disclosure,,n,disclosures
+435,constituent,,adj,
+436,surprising,,adj,
+437,index,cs,v,"indexes, indexing, indexed"
+438,ambiguity,,n,ambiguities
+439,initiate,,v,"initiated, initiates, initiating"
+440,popularity,,n,
+441,intersect,math,v,"intersects, intersected, intersecting"
+442,compress,,v,"compressed, compressing, compresses"
+443,zone,cs,n,zones
+444,initialization,cs,n,"initializations, initialisation, initialisations"
+445,incomplete,,adj,
+446,accounting,,n,
+447,viewpoint,,n,viewpoints
+448,heuristic,cs,n,heuristics
+449,custom,,n,customs
+450,audio,,adj,
+451,batch,,n,batches
+452,parse,,v,"parsing, parsed, parses"
+453,domino,,n,"dominoes, dominos"
+454,forwarding,,n,
+455,unlock,cs,v,"unlocked, unlocking, unlocks"
+456,spreadsheet,cs,n,spreadsheets
+457,reasonably,,adv,
+458,administrator,,n,administrators
+459,reconstruct,,v,"reconstructed, reconstructs, reconstructing"
+460,lab,,n,labs
+461,short,,adv,"shorter, shortest"
+462,autonomous,,adj,
+463,speedup,,n,speedups
+464,timer,,n,timers
+465,leakage,,n,leakages
+466,strain,,n,strains
+467,desktop,cs,n,desktops
+468,substitute,,v,"substituted, substitutes, substituting"
+469,synthesize,,v,"synthesized, synthesizes, synthesizing, synthesised, synthesises, synthesising"
+470,corrupt,cs,v,"corrupted, corrupts, corrupting"
+471,procedural,,adj,
+472,terminal,cs,n,terminals
+473,convert,math,n,converts
+474,inheritance,cs,n,inheritances
+475,traversal,cs,adj,
+476,federate,,v,"federated, federating, federates"
+477,checkerboard,,n,checkerboards
+478,convenience,,n,conveniences
+479,objective,,adj,
+480,degrade,,v,"degrading, degrades, degraded"
+481,bias,cs,v,"biased, biases, biasing"
+482,clustering,cs,n,clusterings
+483,layer,cs,v,"layers, layered, layering"
+484,implement,,n,implements
+485,dependability,,n,
+486,unroll,,v,"unrolls, unrolled, unrolling"
+487,subsequently,,adv,
+488,isolation,cs,n,isolations
+489,indirect,,adj,
+490,aggregate,math,adj,
+491,pair,math,v,"pairs, paired, pairing"
+492,preprocessing,,n,
+493,median,cs,adj,
+494,topological,,adj,
+495,linkage,cs,n,linkages
+496,geographic,,adj,
+497,singular,math,adj,
+498,weight,math,v,"weighted, weights, weighting"
+499,usable,,adj,
+500,free,,v,"freed, frees, freeing"
+501,segment,cs,v,"segments, segmented, segmenting"
+502,skeletal,,adj,
+503,tweet,,v,"tweets, tweeting, tweeted"
+504,clique,,n,cliques
+505,recognizable,,adj,recognisable
+506,predefined,,adj,
+507,accommodate,,v,"accommodated, accommodating, accommodates"
+508,ease,,n,eases
+509,visibility,,n,
+510,radix,cs,n,"radixes, radices"
+511,focal,math,adj,
+512,object,cs,adj,
+513,die,math,n,
+514,compensate,,v,"compensates, compensated, compensating"
+515,skip,,v,"skipped, skipping, skips"
+516,pack,cs,v,"packs, packed, packing"
+517,unexpected,,adj,
+518,equal,,n,equals
+519,degradation,,n,degradations
+520,decrypt,,v,"decrypts, decrypted, decrypting"
+521,instrumentation,,n,instrumentations
+522,override,,v,"overriding, overrides, overriding"
+523,reverse,,v,"reversed, reverses, reversing"
+524,visualize,,v,"visualized, visualizing, visualizes, visualised, visualising, visualises"
+525,equip,,v,"equipped, equipping, equips"
+526,inconsistency,,n,inconsistencies
+527,integral,math,adj,
+528,mutually,,adv,
+529,concatenate,,v,"concatenated, concatenating, concatenates"
+530,conceptual,,adj,
+531,intensity,cs,n,intensities
+532,microprocessor,cs,n,microprocessors
+533,sentinel,cs,n,sentinels
+534,alternate,,adj,
+535,millisecond,,n,milliseconds
+536,targeted,,adj,
+537,transistor,cs,n,transistors
+538,infinitely,,adv,
+539,interconnect,,v,"interconnected, interconnects, interconnecting"
+540,nonlinear,,adj,
+541,payload,cs,n,payloads
+542,alert,,n,alerts
+543,third,,n,thirds
+544,particular,,n,particulars
+545,advance,,v,"advanced, advances, advancing"
+546,equivalent,math,n,equivalents
+547,contradict,,v,"contradicts, contradicted, contradicting"
+548,repetition,,n,repetitions
+549,pop,cs,n,pops
+550,logarithm,math,n,logarithms
+551,sender,,n,senders
+552,chain,cs,v,"chained, chains, chaining"
+553,predecessor,,n,predecessors
+554,fitness,,n,fitnesses
+555,blockchain,,n,blockchains
+556,microstructure,,n,microstructures
+557,differently,,adv,
+558,aforementioned,,adj,
+559,dynamic,cs,n,
+560,suffice,,v,"sufficed, suffices, sufficing"
+561,simulated,,adj,
+562,quantitative,,adj,
+563,replication,math,n,replications
+564,resume,,v,"resumed, resumes, resuming"
+565,sparsity,,n,
+566,keyboard,cs,n,keyboards
+567,predictive,,adj,
+568,forward,,v,"forwarded, forwards, forwarding"
+569,remark,,n,remarks
+570,fill,,n,fills
+571,friction,math,n,frictions
+572,compact,math,adj,"compacter, compactest"
+573,inspection,,n,inspections
+574,cryptographic,,adj,
+575,satisfiable,,adj,
+576,verifier,cs,n,verifiers
+577,subtle,,adj,
+578,analogous,,adj,
+579,competitive,,adj,
+580,publicly,,adv,
+581,iteratively,,adv,
+582,contiguous,,adj,
+583,parenthesis,,n,parentheses
+584,diameter,math,n,diameters
+585,subjective,,adj,
+586,primitive,cs,n,primitives
+587,cryptography,cs,n,
+588,thread,,v,"threads, threading, threaded"
+589,substring,cs,n,substrings
+590,cookie,cs,n,cookies
+591,regularization,,n,"regularizations, regularisation, regularisations"
+592,asymptotically,,adv,
+593,cybercrime,cs,n,cybercrimes
+594,holographic,,adj,
+595,bound,cs,adj,
+596,network,cs,v,"networks, networking, networked"
+597,counter,cs,v,"counters, countered, countering"
+598,reflection,,n,reflections
+599,prune,,v,"pruned, pruning, prunes"
+600,duplicate,,n,duplicates
+601,cardinality,cs,n,
+602,noun,,n,nouns
+603,continuation,cs,n,continuations
+604,instructor,,n,instructors
+605,atom,cs,n,atoms
+606,stimulus,,n,stimuli
+607,tetrahedral,,adj,
+608,tradeoff,,n,tradeoffs
+609,tag,cs,v,"tagged, tags, tagging"
+610,iterate,,v,"iterated, iterating, iterates"
+611,gradient,math,adj,
+612,privileged,,adj,
+613,technological,,adj,
+614,inefficient,,adj,
+615,combined,,adj,
+616,media,,n,"medias, medium"
+617,certification,cs,n,certifications
+618,audit,,n,audits
+619,spectrum,,n,"spectra, spectrums"
+620,prohibit,,v,"prohibited, prohibiting, prohibits"
+621,crash,cs,n,crashes
+622,dedicated,cs,adj,
+623,algorithmic,,adj,
+624,symbolic,,adj,
+625,federal,,adj,
+626,sensitivity,,n,sensitivities
+627,exploration,,n,explorations
+628,tower,cs,n,towers
+629,aberration,,n,aberrations
+630,activation,,n,activation
+631,exponentially,,adv,
+632,planar,,adj,
+633,exit,,v,"exits, exited, exiting"
+634,spread,cs,n,spreads
+635,tune,,v,"tuned, tunes, tuning"
+636,ranking,,n,rankings
+637,repeated,,adj,
+638,automation,,n,automations
+639,checkpoint,cs,n,checkpoints
+640,coupling,cs,n,couplings
+641,passive,,adj,
+642,antenna,,n,antennas
+643,incentive,,n,incentives
+644,orthogonal,,adj,
+645,exhaustive,math,adj,
+646,accumulate,,v,"accumulated, accumulates, accumulating"
+647,token,cs,adj,
+648,isolate,math,v,"isolated, isolates, isolating"
+649,formalize,,v,"formalized, formalizing, formalizes, formalised, formalising, formalises"
+650,transparent,cs,adj,
+651,shrink,,v,"shrank, shrinking, shrunk, shrinks"
+652,privilege,,n,privileges
+653,tile,cs,v,"tiles, tiled, tiling"
+654,actuator,cs,n,actuators
+655,diffusion,,n,diffusions
+656,residual,cs,adj,
+657,neural,,adj,
+658,proportion,math,n,proportions
+659,adjacency,,n,
+660,virtualized,,adj,virtualised
+661,dialog,,n,"dialogs, dialogue, dialogues"
+662,reconfiguration,cs,n,reconfigurations
+663,automobile,,n,automobiles
+664,retention,,n,retentions
+665,categorical,,adj,
+666,backward,,adv,
+667,reachable,,adj,
+668,mismatch,,n,mismatches
+669,power,,v,"powers, powered, powering"
+670,angular,math,adj,
+671,cylinder,math,n,cylinders
+672,breach,,n,breaches
+673,microphone,,n,microphones
+674,mutation,,n,mutations
+675,projector,,n,projectors
+676,scattering,,n,scatterings
+677,catalog,,n,catalogs
+678,pairwise,math,adj,
+679,robot,,n,robots
+680,assembler,cs,n,assemblers
+681,modulation,cs,n,modulations
+682,magnification,,n,magnifications
+683,predictor,,n,predictors
+684,bipartite,,adj,
+685,observer,math,n,observers
+686,factorial,math,adj,
+687,theoretic,,adj,
+688,serial,cs,adj,
+689,stem,,n,stems
+690,equilibrium,math,n,"equilibria, equilibriums"
+691,crack,,v,"cracked, cracking, cracks"
+692,pyramid,math,n,pyramids
+693,analytic,,n,analytics
+694,emit,,v,"emitted, emits, emitting"
+695,lawsuit,,n,lawsuits
+696,analog,,adj,
+697,isotropic,,adj,
+698,benchmark,cs,adj,
+699,interpretable,,adj,
+700,tab,cs,n,tabs
+701,factorial,math,n,factorials
+702,screen,cs,v,"screened, screening, screens"
