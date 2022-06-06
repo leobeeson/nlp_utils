@@ -1,0 +1,633 @@
+﻿#,Discourse Connector,Class,Category,BNC academic,COCA academic,BNC spoken,COCA spoken,BNC non-academic,COCA general,BNC all,COCA all
+1,and,Additive,Reinforcing,26878.3,30325.9,26078.2,26011.1,27614.2,25498.7,26878.4,26675.1
+2,or,Additive,Reinforcing,5120.9,4320.6,3176,2542.9,3574.7,3362.9,3772.3,3391.7
+3,as,Comparison,,2576,1285.1,149.2,56.1,1818.1,1186.6,6712.7,5918.8
+4,if,Consequential,Conditional,2082.9,1233.5,4683.8,2989.1,1570.9,1955.7,2603.5,2310.2
+5,when,Sequential,Timing,1446.3,1502.8,2890.2,2580.5,1688.8,2384.3,2153.3,2349.3
+6,also,Additive,Reinforcing,1315.7,1331,473.4,755.1,1384.7,930,1262.5,1156.7
+7,however,Contrastive,Concessive,1219.9,897,92.4,97.7,831.8,309.1,612.6,343
+8,after,Sequential,Transitionals,836.4,757.3,655.1,954.2,971.6,1248.1,1162.3,1132.8
+9,as,Consequential,Causative,792,492.6,172.3,493.4,1038.2,313.8,6712.7,5918.8
+10,even,Clarification,Emphasizing,735.2,724.9,484.2,842.6,713.5,942.6,899.5,1094.6
+11,because,Consequential,Causative,733.5,855.7,2106.9,1966,648,912.5,1033.4,1278.5
+12,much,Additive,Reinforcing,699.8,530,1117,1160.1,715.1,736,924.7,915.5
+13,although,Contrastive,Antithetic,693.6,578.9,165.9,101.9,549.7,243.7,438.7,261.4
+14,before,Sequential,Transitionals,670.4,483.1,795.3,783.1,664.6,841.8,872.7,833.7
+15,rather,Contrastive,Antithetic,663.5,464.1,339.6,188.8,448.3,215.8,429.4,247.4
+16,such as,Apposition,Exemplification,617.2,668.1,44.1,51.4,477.4,366.2,326.8,295.6
+17,as... as,Comparison,,602.1,1052.5,248,783.7,539.6,1456.7,952.4,912.5
+18,for example,Apposition,Exemplification,597.5,467.2,111,130.4,315,167.3,244.4,189.8
+19,like,Comparison,,564.7,104.3,3676.1,535,730.5,1607,1516.6,1964.3
+20,again,Contrastive,Replacive,561.5,40.2,3651.9,23.4,726.5,23.4,590.4,511
+21,since,Sequential,Timing,548.8,408.9,163.6,291.2,516.5,499.8,500.6,486.7
+22,while,Contrastive,Concessive,542,446.5,201.9,134.1,510.3,517,561.5,653.6
+23,during,Sequential,Transitionals,517.8,790,156.9,267,650,542.3,444.5,469.3
+24,now,Sequential,Timing,500.2,205.4,1916.6,1775.1,646.1,343,1431.6,1545.7
+25,therefore,Consequential,Resultative,484.9,233.3,125.9,44.2,200.7,34.3,237.3,86.6
+26,right,Clarification,Corroborative,463.9,323.6,3418.2,2089.2,362.2,621,933.1,1091.2
+27,then,Additive,Reinforcing,396.7,174.8,1009.3,418.2,289.3,683.5,1591.7,1347.9
+28,then,Consequential,Resultative,395.7,210.2,2016.1,559.5,578.3,152.5,1591.7,1347.9
+29,more... than,Comparison,,382.7,390,170.1,338.6,247.5,729,267.7,446.9
+30,later,Sequential,Transitionals,382.7,271.9,171.4,265,455.3,371,394,349.7
+31,for,Consequential,Resultative,376.7,893.3,990.4,358.5,902.9,1819.8,9010.6,8493.4
+32,further,Additive,Reinforcing,371.2,24.2,3.3,17.2,313.2,16.9,366.6,139.4
+33,though,Contrastive,Concessive,351.4,184.5,429.1,242.1,317.5,288.8,452.1,408.4
+34,particularly,Apposition,Restatement,346.2,228.9,158.8,116.4,272,111.7,223.4,122.9
+35,following,Sequential,Transitionals,345.9,323.5,65.2,72.6,369.7,127.3,270.6,148.8
+36,at least,Contrastive,Replacive,341.3,270,171.8,274.6,272,288.9,256.9,273.2
+37,whether,Consequential,Conditional,333.6,213.2,260.7,142.7,167.6,166.8,365.2,300.7
+38,thus,Consequential,Resultative,320.6,365.6,3,10.9,280.2,47.8,208.3,135.1
+39,always,Sequential,Timing,320.1,243.6,619.1,489.8,308,413.8,456.1,446.1
+40,usually,Clarification,Generalization,306.4,119.3,138.2,65.4,194.2,123.6,194.2,129.9
+41,as well,Additive,Reinforcing,302.3,476.9,635.5,269.2,301.3,265,312.8,287.1
+42,again,Additive,Reinforcing,296.6,170.8,811.1,652.7,302.5,284.3,590.4,511
+43,until,Sequential,Transitionals,270.6,220.7,236.6,276.9,423.2,540,411,421.9
+44,either... or,Additive,Equative,269.4,70.7,121.4,11.4,172.8,95.7,163.8,37.7
+45,indeed,Clarification,Emphasizing,261,172.7,149.7,84.4,169.9,82.7,190.1,110.5
+46,in terms of,Clarification,Emphasizing,260.9,149.5,145.2,6.1,98.4,20.2,103.6,30.6
+47,one,Sequential,Ordering,260.1,3.2,580.8,16.6,477.7,3.8,3031,2801.6
+48,especially,Clarification,Emphasizing,258.6,291.9,92.8,147.3,211.7,199.3,178.1,189.3
+49,once,Sequential,Timing,257.8,264.5,291,302.2,299.9,401.8,379.1,390.9
+50,also,Comparison,,255.2,347.9,112.3,2.1,164.4,320.4,1262.5,1156.7
+51,sometimes,Sequential,Timing,254,159,205.4,188.7,209.9,216.9,205.6,208.5
+52,as well as,Comparison,,250,372.3,62.3,83.9,250.7,174.2,187.5,171.2
+53,whether... or,Additive,Equative,249.9,146.9,167.5,206.9,140,103.1,145.5,125.1
+54,earlier,Sequential,Transitionals,243.8,170.7,110.6,158.7,208.8,131,167.5,135.5
+55,because of,Consequential,Causative,240.7,245.4,155.3,212.3,195.9,197.7,180.8,188.8
+56,never,Sequential,Timing,236.9,264.7,727,696.8,302.3,582.9,546.8,648.4
+57,thus,Summation,,233.2,73.1,5,1.4,35,52.9,208.3,135.1
+58,less ... than,Comparison,,231.7,211.1,61.8,88,185.1,179.4,153.6,146.2
+59,according to,Clarification,Corroborative,230.2,307,39.1,107.9,252.9,291.2,158.6,208.5
+60,the fact that,Clarification,Emphasizing,225.8,140.8,117.5,179.1,130.3,78.5,134.3,107.4
+61,generally,Clarification,Generalization,220.7,165.4,56.4,36.6,139.7,69.7,117.9,80.1
+62,too,Additive,Reinforcing,189,127.8,261,293.5,218.7,391,686.4,694.3
+63,certainly,Clarification,Emphasizing,186.7,102.8,310.3,321,142.9,96.6,186.6,145
+64,in fact,Clarification,Corroborative,173.5,171.9,276.4,295.4,147.7,91.2,167.1,169.8
+65,a) b) c),Sequential,Ordering,170.6,86.5,0.8,2.2,59.5,8.3,63.6,21.2
+66,of course,Clarification,Corroborative,165.7,131.9,452.8,271.2,151.4,127.3,305.7,236.4
+67,the latter,Sequential,Ordering,164.3,79.5,4.2,3.7,100.9,22.4,70.7,27.3
+68,directly,Sequential,Timing,163.3,145.5,28.8,54,120.9,75.5,88.5,83
+69,yet,Contrastive,Concessive,160.7,61.2,123.9,123.7,177.7,97.4,348,334.3
+70,only,Contrastive,Concessive,159.2,64.2,63.9,42.9,137.6,122,1525.9,1214.1
+71,e.g.,Apposition,Exemplification,157.1,253,0.1,0.1,46.5,5.6,50.1,52.1
+72,for instance,Apposition,Exemplification,156.3,95.5,53.8,44.9,92,71,74.8,60.2
+73,unless,Consequential,Conditional,156,58.5,126.9,71.4,83.6,70.7,110.8,68.1
+74,nevertheless,Contrastive,Concessive,154.7,78.1,27,11.8,106.5,24.5,72.5,31.1
+75,largely,Clarification,Generalization,153.1,111.4,13.7,25.8,119.5,64,74.8,54.5
+76,in particular,Additive,Reinforcing,151.6,82.8,35.5,30.6,102.2,22.9,74,34.5
+77,in all,Summation,,146,104,55.2,66.5,97.8,62.6,93.8,71.4
+78,in addition,Additive,Reinforcing,145.9,251.6,15.7,32.3,116.9,81.3,81.1,91.2
+79,due to,Consequential,Causative,145,158.8,37,21.6,139.4,46.9,107.5,57.9
+80,actually,Clarification,Corroborative,144.7,136,1281.4,487.1,123.4,154.7,262,268.3
+81,whereas,Contrastive,Concessive,144.4,106.8,66.1,14.7,75.2,14.7,63.5,31.6
+82,in relation to,Comparison,,142.3,47.6,36.9,2.1,44.6,4.2,48.3,11.8
+83,significantly,Clarification,Emphasizing,139.5,205.3,12.1,12.4,41,28.4,43.1,55
+84,overall,Summation,,136.6,163.2,40.4,38.4,95.1,79.8,78.8,73.2
+85,otherwise,Consequential,Resultative,136.6,75.7,90.6,40.1,79.7,62.1,88.9,58.7
+86,instead,Contrastive,Antithetic,134.2,179.2,113.6,113.1,147.3,232.9,145.5,192.5
+87,nor,Additive,Reinforcing,131.8,84.8,21.3,23.5,96,44.6,123.4,89.8
+88,hence,Consequential,Resultative,130.7,69.9,6.4,2.8,50.7,11.5,48.3,20.3
+89,even if,Consequential,Conditional,126.1,71.7,70.8,26.9,81.5,63.3,88.1,52.2
+90,previously,Sequential,Transitionals,126.1,92.7,21.7,14.4,99.8,36.5,69.4,37.8
+91,frequently,Sequential,Timing,125.9,116.5,11.1,16,77,50.5,58.9,49.3
+92,now,Sequential,Transitionals,125.4,231.7,1085,1626,253.8,133.5,172.6,323.8
+93,i.e.,Apposition,Restatement,124.3,147,5.3,2.7,49,8.1,46.8,33.1
+94,increasingly,Additive,Reinforcing,120.3,118.2,13.9,24.1,102.9,155.3,67.5,57.7
+95,finally,Sequential,Transitionals,120.2,19.3,39.3,26.6,101.9,57.1,128.7,201.3
+96,in general,Clarification,Generalization,120.1,89.2,30.2,27.3,57.1,24.8,48.2,34.9
+97,except,Contrastive,Concessive,118.3,72.7,62.9,64.3,96.9,78.3,103.8,94.1
+98,recently,Sequential,Timing,118.3,138.8,61.7,97.6,135.2,203,124.4,138.1
+99,not only... but also,Additive,Equative,118.3,74.1,37,15.7,81.8,25.8,67.4,34.5
+100,on the other hand,Contrastive,Antithetic,115.9,83.9,24.8,40.1,69.2,33.9,54.7,42.6
+101,stress,Clarification,Emphasizing,114.9,130.8,30.5,34.8,59,57.7,49.7,58.7
+102,that is,Apposition,Restatement,114.5,116.3,38.6,49.7,55.2,25.1,49.8,48.2
+103,similarly,Comparison,,113.8,27.8,5.8,1.4,49.7,19.4,46.1,29.9
+104,much more,Additive,Reinforcing,113.8,70.2,81.6,104.6,98.5,67.5,82.7,69.6
+105,as a result,Consequential,Resultative,113.6,106.5,28,37.2,52,42.5,81.9,54.9
+106,immediately,Sequential,Timing,105.9,75,45.9,70.6,115.9,85.6,104,83.3
+107,then,Summation,,99.3,176.1,289,280.2,73.8,103.2,1591.7,1347.9
+108,then,Contrastive,Antithetic,99.3,141.6,289.2,141.2,36.3,106.2,1591.7,1348.4
+109,apparently,Clarification,Corroborative,98.5,53.6,75.3,97.1,95.3,52.1,77.7,65
+110,moreover,Additive,Reinforcing,98.4,122.9,1,2.7,59.2,25.6,43.7,38.6
+111,since,Consequential,Causative,96.9,72.2,40.9,72.8,57.4,88.2,500.6,486.7
+112,to show,Apposition,Exemplification,94.2,47.1,49.5,100.1,58.6,54.7,67.7,64.8
+113,essentially,Clarification,Generalization,90.1,54,28.6,62.1,48.5,31,36.8,37.2
+114,the former,Sequential,Ordering,88.6,62.7,7.5,54.6,101.1,60.1,64.7,49.7
+115,second,Sequential,Ordering,85.1,110.7,35.4,60,56.9,47.6,50,64.5
+116,i) ii) iii),Sequential,Ordering,84.2,16.2,0,0.2,61.4,4.8,32.8,5.6
+117,whilst,Contrastive,Concessive,83.6,2.3,34.3,0.5,71.6,0.4,59.2,1.1
+118,so,Consequential,Resultative,82.8,158.2,2124.1,864.6,155.4,181.3,2460.4,2397
+119,even though,Contrastive,Concessive,80.5,82.5,39.7,95,61,80.6,58.9,86.7
+120,furthermore,Additive,Reinforcing,78.9,90.5,2.7,3.8,33.8,10.3,29.8,25
+121,specifically,Apposition,Restatement,78.5,118.8,25.4,49.3,54.3,28.5,38.4,46.9
+122,of course,Consequential,Resultative,77.9,6.9,113.2,146,47.8,22.5,305.7,236.4
+123,extremely,Clarification,Emphasizing,77.2,61.2,48.1,58.3,75.4,51.1,68.9,49.2
+124,more,Additive,Reinforcing,77,3.2,53.3,1,156.6,2.6,2152,2328
+125,subsequently,Sequential,Transitionals,77,37,9.6,4.4,55.1,9.1,37.2,12.4
+126,on the basis of,Clarification,Corroborative,75.8,52.9,18.8,10.5,37.2,9.3,30.8,16.5
+127,in this case,Apposition,Restatement,75.8,37,18.1,69.7,28.8,17,31.3,30.2
+128,apart from,Additive,Reinforcing,75.3,23.1,62.9,7.5,61.5,10.9,65.7,12.7
+129,concerning,Clarification,Emphasizing,74.9,81.5,9,9.4,50.8,12.2,34.2,24.5
+130,and also,Additive,Reinforcing,74.6,40.1,91.2,88,72.7,25.1,60.9,39.1
+131,eventually,Sequential,Transitionals,72.5,12.7,58.6,21.4,106.8,42.9,91.2,85.5
+132,secondly,Sequential,Ordering,71.7,7.6,26.1,22.9,28.6,2.1,29.2,7.2
+133,in this way,Additive,Equative,70.3,26.7,8.6,3.7,43.8,5,31.2,9.1
+134,at the same time,Sequential,Timing,69.5,79.5,32.2,58.7,66.9,45.5,71,64.7
+135,so far as,Sequential,Timing,68.6,9.9,11.3,4.5,26.5,4.6,24.6,6
+136,here,Sequential,Timing,67.5,32.8,174.3,330.6,32.3,185.9,698.9,1025.5
+137,rarely,Sequential,Timing,66.9,49.7,9.2,15.2,48,45.4,42.2,36.9
+138,exactly,Comparison,,66.7,49.5,209.2,279.3,72.4,84.2,105.8,133
+139,in contrast,Contrastive,Antithetic,66.7,77.4,0.5,2.7,28.7,14.9,23.1,22.4
+140,neither... nor,Additive,Equative,66.3,70.7,6.9,11.4,52,34,42.6,37.7
+141,initially,Sequential,Transitionals,66.2,62.1,19.7,23.3,61.5,29.8,39.1,30.2
+142,therefore,Sequential,,66.1,41.2,31.4,11.1,78,6.1,237.3,86.6
+143,namely,Apposition,Restatement,65.6,32.4,7.8,6.3,28.3,5.9,22.1,10.5
+144,considering,Clarification,Emphasizing,65,51.7,24.1,26.1,42,42,43.4,37.9
+145,no doubt,Clarification,Corroborative,63.9,25.7,38.4,35.9,54.4,25.9,61.3,30.6
+146,unlike,Comparison,,63.8,71.7,8.1,26.9,58.9,63.3,46.7,52.2
+147,in other words,Apposition,Restatement,62.6,59,49.8,50,38.6,21.7,32.8,32.1
+148,accordingly,Consequential,Resultative,62,31.8,5.7,2.3,26,7.7,23.6,10.5
+149,whether or not,Consequential,Conditional,61.6,29.7,22.4,69,29.8,12.9,29.3,27.3
+150,as if,Comparison,,60.3,60.7,67.8,50.1,62.1,91.3,149.9,166.8
+151,consequently,Consequential,Resultative,60.3,57.1,7.8,2.3,32.2,7.9,25.7,15.4
+152,ultimately,Sequential,Transitionals,59.8,84,13.9,53.8,38.7,0,29.2,50.8
+153,equally,Comparison,,56.8,19.8,14,3.7,45.1,11.1,66.6,34.8
+154,equally,Additive,Equative,56.8,46.1,9.3,11,36.9,25.8,66.6,34.8
+155,inevitably,Clarification,Corroborative,56.5,23.9,7.6,6.9,43.1,13.5,31.4,13.1
+156,quickly,Sequential,Timing,55.3,82.5,91.3,130.5,90.9,142.8,121.5,140.1
+157,currently,Sequential,Timing,55.1,102.6,28.4,31.4,107.4,62.1,71.7,54.2
+158,but,Contrastive,Concessive,55,40.3,305.5,260.3,80.9,203,210.5,216.6
+159,depends on,Clarification,Corroborative,54.7,35.5,29.3,24.7,30.2,21.9,29,22.2
+160,soon,Sequential,Transitionals,53.3,63.8,72.1,89.6,120.1,132.1,202.8,172.3
+161,originally,Sequential,Transitionals,52.8,39.7,31.8,23.6,68.3,29.9,45.6,27
+162,with respect to,Clarification,Generalization,51.7,54.7,3.8,15.8,11.6,3.7,13.8,15.7
+163,demonstrate,Apposition,Exemplification,49.8,75.3,10.5,12.4,32.5,16.5,24.4,25.2
+164,indeed,Apposition,Restatement,49.7,30.5,20.4,9.4,53.7,9.2,190.1,110.5
+165,like,Clarification,Corroborative,49.1,590.9,153.2,2140,63.5,84.6,1516.6,1964.3
+166,approximately,Comparison,,48.5,113.3,15,15.3,44,25.2,28.7,36.8
+167,as far as,Clarification,Corroborative,46.6,17.9,109.8,78.4,45.7,26.8,58.6,39.3
+168,neither,Additive,Reinforcing,44.6,33.4,23,24.5,34.2,31.6,81.9,74.4
+169,with regard to,Consequential,Resultative,44.1,37.3,15.1,15.3,16.7,3.2,17,12
+170,briefly,Summation,,42.3,25.1,27.1,21.1,23.6,19.6,32.7,24.6
+171,unfortunately,Clarification,Corroborative,42,48.6,55.2,58.6,48,40.6,46.5,42.7
+172,occasionally,Sequential,Timing,41.1,29.3,24.1,11.8,42.4,45.8,39.7,33.2
+173,probability,Clarification,Emphasizing,41,38,7.2,4.4,17.7,4.7,16.1,11
+174,on the one hand,Contrastive,Antithetic,40.9,27.2,6.6,11.9,20.4,4.4,14.6,9.9
+175,undoubtedly,Clarification,Emphasizing,40.7,20.4,7.8,4.9,30.2,8.7,24.1,9.9
+176,and/or,Additive,Reinforcing,40.6,72.6,0.2,3.5,23.3,14.4,19.9,21.2
+177,in response,Consequential,Causative,39.9,53.8,7.2,11.7,37.5,22.8,23.2,24.1
+178,worse,Contrastive,Replacive,39.8,40.8,78.4,84.3,68.8,70.4,71,74.5
+179,gradually,Sequential,Transitionals,38.7,35.6,19,8.6,49.2,30.6,36.9,25.5
+180,firstly,Sequential,Ordering,38.6,2,18.1,1.3,13.8,0.2,17.5,0.8
+181,mostly,Clarification,Generalization,37.9,57.1,27.1,47.6,44,86.7,39.1,70.8
+182,at present,Sequential,Timing,37.8,14,10.5,1.5,38.4,4.1,29.9,5.2
+183,even when,Clarification,Emphasizing,37.7,32.8,14.5,17.1,27.3,30.4,26.6,28.7
+184,by contrast,Contrastive,Antithetic,37.7,26.3,1.3,1.8,21,13.6,14.8,11.4
+185,altogether,Summation,,37.6,21.4,32.6,11.8,32.2,17.1,32.1,17.3
+186,conclude,Summation,,37.4,25.9,6.9,6.5,16.4,8.5,15,12.7
+187,leading to,Consequential,Resultative,36.3,29.5,3.5,5.8,27.6,14.2,22.3,14.7
+188,to some extent,Clarification,Generalization,35.9,12.7,13.9,10.5,19.3,3.6,14.9,6.3
+189,by no means,Clarification,Corroborative,34.8,11.9,2.6,2.9,25,5,16.6,5.4
+190,too,Additive,Equative,34.7,26.1,17.6,45.3,36.3,29.9,79.8,88.7
+191,same as,Comparison,,34.5,17.7,70.5,11.8,23.7,15.2,29,15.9
+192,as for,Clarification,Emphasizing,34.3,29.1,7.9,23.5,30.5,37.6,31,30.4
+193,third,Sequential,Ordering,34.1,44.5,17.9,10.1,17.3,20.8,20,21.5
+194,aside,Additive,Reinforcing,34.1,32,13.9,38.3,31.8,66.6,38,56.4
+195,simultaneously,Sequential,Timing,33.5,49.7,2.6,5.2,28.8,15.2,17.8,19.5
+196,in fact,Contrastive,Concessive,33.1,13.8,24.1,15.6,12.9,39.1,167.1,169.8
+197,in this respect,Consequential,Resultative,32.8,9.7,2,0.8,14.3,1.2,11.5,2.6
+198,as opposed to,Contrastive,Antithetic,32.4,29.6,22.3,25.2,18.3,11.2,17.1,16.1
+199,only if,Consequential,Conditional,32.1,17.7,8.8,5.7,17.8,12.7,15.9,11.2
+200,the first time,Sequential,Timing,30.9,7.6,42.8,16.9,72.5,12.9,78.5,13.3
+201,above all,Additive,Reinforcing,30.5,13,3.8,4,21.2,4.2,23.1,10.3
+202,constantly,Sequential,Timing,30.1,31.9,13.6,25.8,36.6,40.6,30.8,32.3
+203,slowly,Sequential,Transitionals,29.8,31.5,22.1,24.1,43,63.1,76.2,80.8
+204,roughly,Comparison,,29.8,34.2,25.9,15.6,28.1,45,23.5,30.9
+205,thus,Apposition,Restatement,29.2,97.5,0.3,1.4,23.4,14.7,208.3,135.1
+206,provided that,Consequential,Conditional,28.8,5.1,1.7,0.8,11.4,1.2,11.5,1.8
+207,after all,Contrastive,Concessive,28.8,3.9,29,9.6,35.8,10.9,63.5,60.1
+208,as much as,Comparison,,28.6,34.1,41.2,47.7,37.8,61.9,37.6,48.9
+209,while,Sequential,Timing,28.5,297,36.5,203.8,56.7,218.8,561.5,653.6
+210,as long as,Sequential,Transitionals,28.4,33.1,74.2,57.3,31.6,51.3,40.4,49.5
+211,in the future,Sequential,Transitionals,28.1,38.9,34,37.2,28.3,25.3,26.3,27.1
+212,evidently,Clarification,Corroborative,27.9,10.2,2.6,4.9,17.1,21.6,14.8,7.7
+213,alternatively,Additive,Reinforcing,27.8,8.9,2.3,0.2,11.8,1.8,17.8,3.6
+214,moreover,Clarification,Emphasizing,27.7,6.5,0.2,0.3,5.2,2.8,43.7,38.6
+215,in any case,Clarification,Corroborative,27.5,11.5,6.7,4.6,21.6,5.2,22.9,8.9
+216,at the same time,Contrastive,Concessive,27,14,13.8,14.7,21.1,11.4,71,64.7
+217,clearly,Clarification,Corroborative,26.9,24.6,8.1,30.6,15.9,58.5,13.9,17.3
+218,in the first place,Sequential,Ordering,25.9,13,24.4,23.5,17.3,14.7,19.7,17.1
+219,albeit,Contrastive,Antithetic,25.8,19.8,4.7,2.3,19.2,8.6,14.1,8.8
+220,more and more,Clarification,Emphasizing,25.6,21.5,26.5,39.9,30,26.9,25.7,27.4
+221,absolutely,Clarification,Emphasizing,25.3,18.5,189.4,304.4,23.2,42.9,58.4,93.1
+222,in short,Summation,,25,31.4,4.8,4.6,17.9,14.2,16.1,14.5
+223,arising from,Consequential,Causative,24.3,9.3,4.1,0.4,17.1,1.3,11.5,2.6
+224,for this reason,Consequential,Resultative,23.9,13.3,1.5,1.1,12.9,2.9,10.1,4.3
+225,as soon as,Sequential,Transitionals,23.9,16.1,62,36.8,40.9,30.4,56,37.8
+226,likewise,Additive,Equative,23.8,38.1,3.8,2.6,16,12.2,12.1,14.3
+227,first,Sequential,Ordering,23.5,20.1,1.9,0.1,4.4,11.5,114.7,140.7
+228,so long as,Consequential,Conditional,23.5,9,5.9,3.3,12.6,5.1,13.5,5.9
+229,in the same way,Additive,Equative,23.3,8.5,11.5,5,20.3,4.8,18.5,6.7
+230,you know,Clarification,Corroborative,23,27,3092.6,2558.8,31.5,98.5,439.6,659.6
+231,conversely,Contrastive,Antithetic,23,19.1,1.4,1,11,3.8,8.4,5.6
+232,versus,Contrastive,Concessive,22.8,69.5,5.5,24.5,11.8,15.2,9.9,26
+233,at this point,Sequential,Transitionals,22.7,17.6,11.4,90.6,15.8,16.5,15.2,31.5
+234,thirdly,Sequential,Ordering,22.2,1.6,6.1,2.2,8.9,0.3,8.1,0.9
+235,somehow,Consequential,Resultative,22.2,24.7,32.4,66.1,26.7,37.1,43.5,55
+236,seldom,Sequential,Timing,21.9,17.1,5.2,3.6,16.1,13.1,15.2,11.8
+237,as a result,Clarification,Emphasizing,21.7,18.8,10.8,4.1,56.3,7.5,81.9,54.9
+238,in the end,Sequential,Transitionals,21.6,22.2,43.2,35.8,27.2,28.1,31.9,28.5
+239,given that,Consequential,Causative,21.2,26.4,10.7,10.1,12.8,8.7,12.8,11.5
+240,as a consequence,Consequential,Resultative,21.2,13.8,2.5,2.7,12.2,11.9,8.9,4.2
+241,besides,Contrastive,Concessive,21.1,24.4,7.6,18.4,20.2,41.1,25.4,40.9
+242,resulting from,Consequential,Causative,21.1,20.3,1.2,0.9,13.3,3.1,9.3,5.5
+243,resulting from,Consequential,Resultative,21.1,20.3,1.2,0.9,13.3,3.1,9.3,5.5
+244,as yet,Sequential,Transitionals,20.5,6.9,5.6,2.7,19,3.2,14.5,4.1
+245,basically,Clarification,Emphasizing,20.3,0.1,138.5,0.1,16.4,0.7,31.3,0.2
+246,hitherto,Sequential,Transitionals,20.2,4.4,1.8,0.2,43.4,1,15.4,1.5
+247,suddenly,Sequential,Timing,20.2,27.5,47.1,58.1,46.6,69.6,113.4,104.3
+248,actually,Contrastive,Concessive,19.8,7.2,0,162.4,16.8,17.2,262,268.3
+249,meanwhile,Sequential,Transitionals,19.6,14.1,5.9,14.1,50.9,22.8,48.1,49.9
+250,finally,Summation,,19.6,174,9.8,150.9,32.2,106.1,128.7,201.3
+251,in that case,Consequential,Resultative,19.6,4.3,17.7,8.1,4.8,3.6,9.7,5
+252,two,Sequential,Ordering,19.4,13.8,261.6,51.2,16.3,23.1,49.3,30.2
+253,on the whole,Clarification,Generalization,19.4,7,14.6,4.1,14.7,3.3,12.8,4.1
+254,I believe,Clarification,Corroborative,19.4,31.3,85.8,161,18.3,35.6,42.6,62.4
+255,generally,Sequential,Timing,19.2,18.1,4.9,6.2,5.8,7.6,117.9,80.1
+256,by the time,Sequential,Transitionals,19.2,18.6,38.2,27.1,33.7,42,37.6,39.6
+257,emphasize,Clarification,Emphasizing,19.1,40.9,6.6,10.8,8.2,11.6,6.8,15.5
+258,in any event,Contrastive,Concessive,19,5.5,4.2,3.1,4.9,2.6,7.1,3.3
+259,in most cases,Clarification,Generalization,18.8,11.2,2.9,4.1,10.2,6.5,7.8,5.8
+260,nonetheless,Contrastive,Concessive,18.7,48.5,1.2,10.1,7.1,19.8,6.9,22
+261,formerly,Sequential,Transitionals,18.7,18.2,1,5.5,37.2,18.2,20.1,12.9
+262,in reality,Clarification,Corroborative,18.5,13,3.4,5.3,15,7.4,10.5,7.5
+263,anyway,Contrastive,Concessive,18.4,0.6,522.9,2.9,26.8,1.2,119.8,4
+264,alike,Apposition,Exemplification,18.3,22.7,3.9,8.8,17.7,19.1,14.7,16.8
+265,on the contrary,Contrastive,Antithetic,18.3,13.2,1.3,1.8,10.8,3.4,8.3,5.1
+266,furthermore,Clarification,Emphasizing,17.4,4.8,0.2,0.4,4.6,1.2,29.8,25
+267,that is to say,Clarification,Corroborative,17,6,3.5,3.7,7.8,0.8,7.5,2.8
+268,either,Additive,Equative,17,6.7,8.2,3.8,8.4,11.4,9,3.8
+269,resulting in,Consequential,Resultative,17,27.5,1,1.4,11.9,8.6,8.9,9.4
+270,from time to time,Sequential,Transitionals,16.5,5.3,9.4,7.7,16.7,6.1,17,8.1
+271,I mean,Clarification,Corroborative,15.9,10.7,2042.9,970.5,12.3,24.1,251,239.1
+272,repeatedly,Sequential,Transitionals,15.3,29.5,2.6,18.9,20.4,26.5,12.8,22.6
+273,in comparison,Contrastive,Antithetic,15,17.8,3.4,2.1,9.2,4.9,7.8,6.5
+274,temporarily,Sequential,Timing,14.5,12.6,2.5,6.4,19.8,14,12.9,11
+275,matching,Comparison,,14.4,15.5,4.3,4.9,10.7,15.2,14,13.4
+276,be sure,Clarification,Emphasizing,14.3,24.4,9.5,16,18.5,34.9,20,28
+277,as though,Comparison,,14,14.1,36.5,21.6,22.9,17.7,51.8,36.8
+278,as an example,Apposition,Exemplification,13.7,11,4.2,4.3,6.4,4.7,6,5.2
+279,for this purpose,Consequential,Resultative,13.7,4.6,1.1,0.4,9,1.1,6.5,1.5
+280,seemingly,Clarification,Corroborative,13.6,27.4,2.1,7.8,13.6,52.9,12.3,19.7
+281,admittedly,Contrastive,Concessive,13.6,7.6,5.3,2.4,6.9,4.5,7.2,4.4
+282,till,Sequential,Transitionals,13.5,7,201.3,29.5,21.3,14.4,55.3,26.1
+283,bring about,Consequential,Resultative,13.4,11.4,3.3,5.8,13.3,3.8,7.7,5.1
+284,highlight,Clarification,Emphasizing,13.1,21.5,8.5,4.5,9,12.9,12.1,10.6
+285,plainly,Clarification,Corroborative,13,4.4,2.3,1.8,5.9,10.4,7.4,3.8
+286,in my opinion,Clarification,Corroborative,12.9,3.3,7.8,13,2.1,4.1,5.8,5.5
+287,the most significant,Clarification,Emphasizing,12.6,11.7,1.1,2.5,9.8,4,6,4.5
+288,often,Sequential,Timing,12.5,0,9.2,8.1,22.9,20.4,382.9,345.1
+289,usually,Sequential,Timing,12.3,39.8,12,16.3,8.1,30.9,194.2,129.9
+290,in case,Consequential,Conditional,12.2,8.4,41.9,18.2,13.9,16.7,26.7,18.9
+291,presently,Sequential,Timing,12,12.9,4.7,2.8,8.7,3.6,10,5.9
+292,in conclusion,Summation,,11.9,7.2,3.1,0.4,1.9,0.3,3.3,1.7
+293,in consequence,Consequential,Resultative,11.8,1.9,1.4,0,7.5,0.4,5.6,0.6
+294,notwithstanding,Contrastive,Concessive,11.5,6.5,1.1,1.3,3.9,2.1,7.4,5.8
+295,with reference to,Clarification,Emphasizing,11.4,5.1,2.2,0.7,4.6,0.4,4,1.4
+296,ironically,Contrastive,Antithetic,11.2,20.9,2,9,12.4,34.6,9.9,12.1
+297,more importantly,Clarification,Emphasizing,10.8,12.4,4.6,9.6,7.9,3.8,7.4,6.5
+298,parallel to,Comparison,,10.6,6.6,0.8,1.1,7,5.3,5,4.2
+299,in doing so,Consequential,Resultative,10.6,9.4,2.1,1.9,6.9,3,5.1,3.7
+300,paradoxically,Contrastive,Antithetic,10.4,9.6,0.1,0.5,7.1,8.4,4.5,3.3
+301,incidentally,Sequential,Transitionals,10.3,4.4,11.9,7,10.7,3.9,10.5,4.5
+302,first of all,Sequential,Ordering,10.2,6.9,76.7,117.1,7.2,5.6,14.3,28.7
+303,surely,Clarification,Corroborative,10.1,1.6,9,0.8,8.2,4.2,62,33.8
+304,not at all,Sequential,Timing,10,13.3,19.3,27.9,9.6,7.6,14.2,15.5
+305,soon after,Sequential,Transitionals,10,11.1,4.5,6.3,15.6,14.9,14.5,11.5
+306,additionally,Additive,Reinforcing,10,40.5,1.1,1.5,7.8,4.9,5.9,10.3
+307,similarly,Additive,Equative,9.9,64.9,1.1,3,9.5,4.9,46.1,29.9
+308,unusually,Clarification,Corroborative,9.9,8.5,1.2,3.4,12.1,21.4,10,7.9
+309,in place of,Contrastive,Antithetic,9.9,5.4,1.8,1.1,14.1,5,7.8,3.8
+310,correspondingly,Additive,Equative,9.8,3.9,0.2,0.1,5.5,0.6,3.6,1.1
+311,in summary,Summation,,9.7,10.5,2,0.2,2.7,0.4,3.3,2.3
+312,or else,Additive,Reinforcing,9.3,3.9,7.5,4.4,6.7,3.7,8.3,5.4
+313,in any case,Contrastive,Concessive,9.2,0.6,0.4,0.5,3.8,1.7,22.9,8.9
+314,as distinct from,Comparison,,9.1,2.3,0.6,0.1,4.4,0.3,3.1,0.6
+315,by comparison,Contrastive,Antithetic,9.1,5.3,1.8,1.3,8,5.9,5.5,4.1
+316,by and large,Clarification,Corroborative,8.9,4.3,8.9,7.4,5.2,3.2,4.9,3.8
+317,at any rate,Clarification,Corroborative,8.8,2.9,4.2,1.8,6.3,1.5,6.9,2.9
+318,another example,Apposition,Exemplification,8.7,8.2,4.1,4.3,5.5,3.5,4.6,4
+319,lastly,Sequential,Transitionals,8.6,6.8,5.4,2.1,3.8,1.5,4.4,2.5
+320,on account of,Consequential,Resultative,8.6,3.5,0.9,0.4,4.9,1,5.2,2.2
+321,beside,Additive,Reinforcing,8.4,8.4,15.6,8.3,21.3,21.6,55.6,48.9
+322,insofar,Clarification,Emphasizing,8.4,12.9,0.8,2.3,3.2,1.2,3,3.7
+323,three,Sequential,Ordering,8.3,7.6,194.8,24.9,9.7,11.2,30.5,14.9
+324,to begin with,Sequential,Ordering,8.3,6.4,6.3,11.9,5.9,4.8,6.1,6.9
+325,I see,Clarification,Corroborative,8.2,13.4,221,76.1,9.3,33.8,52.7,51.9
+326,by now,Sequential,Transitionals,7.9,5.9,13.1,11.6,15.3,11.4,21.5,15.4
+327,in the meantime,Sequential,Transitionals,7.8,7.3,7.1,16.9,13.2,12.5,12.3,12
+328,one aspect of,Clarification,Generalization,7.7,4.3,1.2,0.9,3.3,1.5,2.8,1.7
+329,notwithstanding,Contrastive,Antithetic,7.7,6.5,0.8,1.6,3.2,3.2,7.4,5.8
+330,vs.,Contrastive,Concessive,7.6,0.9,0.6,0,1.8,1,4.2,0.8
+331,giving rise to,Consequential,Resultative,7.5,2.1,0.7,0.2,3,0.6,2.5,0.7
+332,well,Clarification,Corroborative,7.5,39,1206.4,747,43,0,1467.9,1231
+333,chiefly,Clarification,Emphasizing,7.3,6,0.5,0.4,7.8,2.8,7.4,3
+334,you see,Clarification,Corroborative,7.2,11.1,764.3,189.5,13.8,42.6,120.3,78.6
+335,to some degree,Clarification,Generalization,7,6.2,1.7,5.4,2.9,2.6,2.7,3.5
+336,ostensibly,Clarification,Corroborative,7,9.4,0.1,1.6,7.4,11.2,4.2,4.2
+337,preferably,Clarification,Corroborative,7,4.1,4,1,7,6.9,8,4.2
+338,more accurately,Contrastive,Reformulatory,6.9,5.5,0.8,0.7,4.3,2.3,3.2,2.4
+339,infrequently,Sequential,Timing,6.9,4.3,0.4,0.5,2.6,1.5,2.4,1.8
+340,arising out of,Consequential,Causative,6.9,1.3,2,0.2,2.9,0.2,2.9,0.4
+341,next,Sequential,Ordering,6.9,16.4,12.7,68.5,8.7,18,10,28
+342,in either case,Clarification,Corroborative,6.7,3.2,0.1,0.7,2.6,1.6,2.5,1.6
+343,it is evident that,Clarification,Corroborative,6.7,2.9,0.1,0,2.5,0.3,1.9,0.7
+344,at the time of writing,Sequential,Timing,6.5,0.5,0.1,0,3,0.1,3.3,0.1
+345,later on,Sequential,Transitionals,6.5,5.3,45.8,26.3,10.6,5.3,13.8,10.3
+346,what is more,Additive,Reinforcing,6.3,3.9,0.9,0.7,5.9,1,3.9,1.4
+347,generally speaking,Clarification,Corroborative,6.1,3,7.1,3.4,3.3,1.5,3.2,2
+348,for the first time,Sequential,Transitionals,6.1,7.1,2.6,13.7,12.3,11.3,10.4,11.3
+349,resembling,Comparison,,6,4.1,0.2,0.7,4.5,4.7,3.8,3.8
+350,minus,Additive,Reinforcing,6,6.2,124.9,4,3.7,8.6,18.3,6.6
+351,foremost,Clarification,Emphasizing,6,11.9,2.4,7.7,8.8,8.4,6.2,8.1
+352,periodically,Sequential,Transitionals,5.8,10.9,1.3,2.6,6.3,7.5,4.1,6.4
+353,thereafter,Sequential,Ordering,5.6,5.3,0.2,1.6,5.8,2.8,3.3,2.8
+354,strictly speaking,Clarification,Corroborative,5.5,2,1.4,0.2,2.2,0.6,2.6,0.8
+355,alternatively,Contrastive,Replacive,5.5,1.8,0.1,0.1,1.7,0.3,17.8,3.6
+356,beforehand,Sequential,Transitionals,5.5,2.4,8.5,4.4,6.9,3.6,6.9,3.4
+357,on this basis,Consequential,Resultative,5.5,1.4,0.2,0.2,2.7,0.2,2.4,0.4
+358,as a rule,Clarification,Generalization,5.4,2.5,2,0.7,3.2,2.1,3,1.8
+359,more precisely,Apposition,Restatement,5.4,3.5,0.3,0.2,2.3,1,2.3,2
+360,the following example,Apposition,Exemplification,5.3,1.4,0,0,2.2,0.1,1.5,0.3
+361,honestly,Clarification,Corroborative,5.2,4.5,44.1,25.1,4.1,10.1,14.2,13.2
+362,what if,Consequential,Conditional,5.2,8.2,18.4,29.8,4.7,18,10.5,26.5
+363,of great importance,Clarification,Emphasizing,5,1.8,0.7,0.3,2.7,0.3,2.2,0.6
+364,in much the same way,Comparison,,4.8,2.6,0.6,0.4,3.6,1.5,2.5,1.3
+365,broadly speaking,Clarification,Generalization,4.8,0.9,0.9,0.3,2.1,0.3,1.8,0.4
+366,all right,Sequential,Emphasizing,4.8,3.3,79.9,505.5,11.3,14.5,65.8,142
+367,unexpectedly,Contrastive,Antithetic,4.8,5.1,1,2.7,9.2,16.3,9,6
+368,after all,Clarification,Emphasizing,4.7,34.8,2.5,38.3,4.9,43.5,63.5,60
+369,by the way,Sequential,Transitionals,4.7,4.3,41.7,93.9,5.1,11.8,15.9,29.4
+370,at the present time,Sequential,Timing,4.7,2.8,6.8,2.9,4.6,0.6,3.4,1.4
+371,to this end,Consequential,Resultative,4.7,5.5,0.7,0.1,6.1,0.8,3.3,1.5
+372,lest,Consequential,Resultative,4.6,6,0.7,1.5,5.2,4.3,4.2,4.5
+373,in truth,Clarification,Emphasizing,4.4,3.6,0.5,1.7,2.4,4.2,3.9,4.7
+374,I suppose,Clarification,Corroborative,4.1,4,240.1,24.9,11.5,7.2,70.4,21.2
+375,in the same way,Comparison,,4.1,2.8,1,0.9,3.3,1.2,18.5,6.7
+376,of particular importance,Clarification,Emphasizing,4.1,1.7,0.1,0,1.7,0.1,1.4,0.4
+377,the length of time,Sequential,Timing,4.1,2.7,1.4,0.6,2.6,0.8,2.1,1
+378,for one thing,Sequential,Ordering,4,3.6,0.3,7.8,3.4,7.5,4.4,7.7
+379,ideally,Clarification,Corroborative,4,6.1,1.2,1.2,3.2,3.6,3.5,3
+380,sum up,Summation,,4,1.9,1.9,1.8,2.5,1.2,2.5,1.3
+381,summarize,Summation,,4,1.9,1.9,1.8,2.5,1.2,2.5,1.3
+382,forthwith,Consequential,Resultative,4,0.4,0.3,0.2,2.5,0.2,2.6,0.3
+383,to start with,Sequential,Ordering,3.9,2,21.6,11.4,5.1,2.6,6.5,4.3
+384,chiefly,Clarification,Generalization,3.9,0.7,0.2,0.1,3.3,0.5,7.4,3
+385,in the manner of,Clarification,Emphasizing,3.9,2.1,0.3,0.2,2.2,1.2,2.6,1.3
+386,henceforth,Consequential,Resultative,3.9,2.9,0.1,0.2,7.6,0.7,3.3,1.2
+387,instantly,Sequential,Timing,3.9,5,5.1,8.4,8.1,16.2,15.6,16.2
+388,strangely,Clarification,Corroborative,3.7,3.7,2.6,3,5.1,19.3,9.8,7.2
+389,alternatively,Contrastive,Reformulatory,3.7,1.2,0.7,0.1,3.3,0.5,17.8,3.6
+390,most of the time,Sequential,Timing,3.7,5,10.2,9.3,5.8,7.9,6.9,8.5
+391,inasmuch,Clarification,Emphasizing,3.7,3.9,0.1,0.5,1.2,0.6,1.1,1.3
+392,surely,Clarification,Emphasizing,3.7,30.7,55.3,15.7,23.4,23.5,62,33.8
+393,in a word,Summation,,3.7,2.3,0.9,1.7,1.2,1.5,1.6,1.7
+394,meanwhile,Sequential,Timing,3.7,17.2,2.8,21.1,19.8,53.1,48.1,49.9
+395,all the same,Contrastive,Concessive,3.7,1.8,16.8,3.4,4.9,3.1,10.7,4.4
+396,quite simply,Clarification,Corroborative,3.6,1.5,3.5,1.5,3.2,4.2,3.6,1.4
+397,unquestionably,Clarification,Emphasizing,3.6,3.7,0.2,1.4,4.1,2.1,2.3,2.1
+398,frankly,Clarification,Corroborative,3.6,4.2,16,68.1,4.9,11,9.5,21.6
+399,one way or another,Clarification,Generalization,3.5,3.2,4.3,6,2.9,2.7,3,3.8
+400,as a response to,Consequential,Causative,3.3,2.8,0.1,0.3,2.4,0.5,1.3,0.8
+401,whereupon,Consequential,Resultative,3.2,1.2,0.2,0.3,3.8,1.1,2.8,1.2
+402,then again,Contrastive,Concessive,3.1,2.3,17.7,4.8,1.4,7.3,5.3,6.6
+403,concurrently,Comparison,,3.1,5.9,0.6,0.2,3.8,4.1,1.8,1.6
+404,in sum,Summation,,3.1,10.8,0.1,0.1,1.2,1,1,2.6
+405,theoretically,Clarification,Corroborative,3.1,2.8,0.2,1.6,1.3,1.3,1.2,1.6
+406,eventually,Sequential,Timing,3,72.1,2.4,39.7,14.6,64.4,91.2,85.5
+407,of considerable importance,Clarification,Emphasizing,2.9,0.3,0.1,0,1.2,0,0.9,0.1
+408,of crucial importance,Clarification,Emphasizing,2.9,0.4,0.3,0,2.2,0.1,1.2,0.1
+409,above all,Clarification,Emphasizing,2.8,3.7,0.5,0.8,2.8,4.2,23.1,10.3
+410,oddly,Clarification,Corroborative,2.8,3.2,2.3,3.3,4.7,21.8,7.2,8.1
+411,as a starting point,Sequential,Ordering,2.7,1.7,0.4,0.2,1.2,1.6,1,0.6
+412,the amount of time,Sequential,Timing,2.7,6.7,2.1,1.4,2.3,2.1,2.1,2.5
+413,hereafter,Sequential,Ordering,2.7,5.2,0.8,0.6,1.9,0.6,1.2,1.6
+414,nowadays,Sequential,Timing,2.6,2.1,4.9,2.5,3.8,3.3,4.1,2.6
+415,as it happens,Clarification,Corroborative,2.6,1.4,2.9,1.6,2.3,1.9,3,1.7
+416,for all that,Contrastive,Concessive,2.5,1.2,2.2,2.1,2.5,1.8,3.3,2.1
+417,furthering,Additive,Reinforcing,2.5,2.9,0.5,0.4,2,0.8,1.3,1
+418,by the same token,Additive,Equative,2.5,2.8,0.5,1.5,1.9,1.3,1.5,1.4
+419,all manner of,Clarification,Generalization,2.4,1.5,0.9,0.5,3.8,2.9,3,2.1
+420,sooner or later,Sequential,Transitionals,2.4,2.4,3.3,5.1,3.6,4.4,5.2,5.1
+421,one consequence of,Consequential,Causative,2.4,0.8,0,0.1,1.3,0.2,0.8,0.3
+422,it is noteworthy that,Clarification,Corroborative,2.4,2.3,0.1,0,1,0.1,0.8,0.5
+423,support that,Apposition,Restatement,2.4,4.2,6.1,9.1,1.3,2.4,2.1,3.7
+424,during this time,Sequential,Transitionals,2.3,5.6,0.6,1.6,3.8,2,2.9,2.5
+425,most of all,Clarification,Emphasizing,2.3,3.1,1.3,4.6,2.8,5.7,4.1,5.2
+426,most important of all,Clarification,Emphasizing,2.3,0.7,0.4,0.5,2.9,0.5,1.8,0.5
+427,above all,Clarification,Generalization,2.2,1.9,1,0.3,3.9,2.1,23.1,10.3
+428,without question,Clarification,Emphasizing,2.2,1.7,0.3,2.4,2.6,2,2,2
+429,of limited value,Clarification,Emphasizing,2.2,0.3,0,0,0.4,0.1,0.5,0.1
+430,of note,Clarification,Emphasizing,2.2,2.2,0.7,0.5,2.3,1.6,1.9,1.3
+431,put it another way,Apposition,Restatement,2.2,0.8,1.2,0.4,1,0.6,1.1,0.6
+432,at any given time,Sequential,Timing,2.2,2,0.6,0.9,0.5,1.5,1.4,1.3
+433,in the event that,Consequential,Conditional,2.1,1.9,0.2,1.5,0.7,0.7,1.3,1.1
+434,of fundamental importance,Clarification,Emphasizing,2.1,0.3,0.2,0,0.7,0,0.6,0.1
+435,without doubt,Clarification,Emphasizing,2.1,1.1,1.1,0.3,2.8,1.7,3,0.6
+436,above all else,Clarification,Emphasizing,2,1.4,0.7,0.5,1,1.1,1.1,1
+437,up to now,Sequential,Transitionals,2,1.2,4.1,2.3,3.7,1,2.8,1.4
+438,of little value,Clarification,Emphasizing,2,0.6,0.1,0,0.6,0.1,0.7,0.2
+439,with this in mind,Consequential,Resultative,2,1.5,0.6,0.1,2.1,0.5,1.6,0.6
+440,conclude,Sequential,Timing,2,6.5,0,2.2,0.9,1,15,12.7
+441,by any means,Clarification,Corroborative,1.9,1.2,2.2,3.6,3,1.7,2,1.9
+442,identically,Comparison,,1.9,0.9,0.1,0.1,0.5,0.6,0.8,0.6
+443,without exception,Sequential,Timing,1.9,1.8,0.7,0.6,2.1,0.9,1.6,1
+444,with particular reference to,Clarification,Generalization,1.9,0.4,0.7,0,2.1,0,1.3,0.1
+445,from now on,Sequential,Transitionals,1.9,1.2,4.3,3.8,2.6,2.1,5.2,3.3
+446,more precisely,Contrastive,Reformulatory,1.8,1.9,0.1,0.1,0.8,0.5,2.3,2
+447,in neither case,Clarification,Generalization,1.8,0.4,0.1,0.1,0.6,0.4,0.5,0.1
+448,but this time,Sequential,Timing,1.7,1.6,2.8,4.2,2.9,4.1,5.6,4.7
+449,as a matter of fact,Clarification,Corroborative,1.6,1.6,3.6,20.3,1.6,1.3,3.9,7
+450,it is evident from,Clarification,Corroborative,1.6,0.5,0,0,0.4,0,0.4,0.1
+451,one at a time,Sequential,Timing,1.6,1.7,4.8,4,2.2,3.6,2.2,3.5
+452,of prime importance,Clarification,Emphasizing,1.6,0.3,0,0,0.7,0.1,0.7,0.1
+453,which is to say,Apposition,Restatement,1.6,2.4,0.4,2.1,0.4,1.9,0.7,2.1
+454,all in all,Summation,,1.6,1.8,2.3,1.9,3.5,2.5,3.2,2.3
+455,roughly speaking,Clarification,Corroborative,1.6,0.5,0.9,0.2,0.7,0.2,0.6,0.2
+456,that is to say,Apposition,Restatement,1.5,0.3,0.5,0.4,1,0.1,7.5,2.8
+457,in as much as,Clarification,Emphasizing,1.4,0.4,3,0.3,1.1,0.3,1,0.3
+458,of paramount importance,Clarification,Emphasizing,1.4,1.5,0.4,0.1,1.2,0.2,1.1,0.4
+459,as illustrated by,Apposition,Exemplification,1.4,1.4,0,0,0.3,0.3,0.4,0.4
+460,outwardly,Clarification,Corroborative,1.4,1.6,0,0.4,1.6,3.2,1.8,1.2
+461,anyhow,Contrastive,Concessive,1.4,0.6,17.9,2.9,1.3,1.2,4.7,4
+462,of critical importance,Clarification,Emphasizing,1.3,1.2,0.1,0.1,0.6,0.2,0.5,0.3
+463,take note of,Clarification,Generalization,1.3,0.9,1.3,0.5,1,0.7,1.3,0.7
+464,at any rate,Contrastive,Concessive,1.2,0.2,0.4,0.2,0.9,0.1,6.9,2.9
+465,in the second place,Sequential,Ordering,1.2,0.4,0,0.3,0.2,0.1,0.4,0.2
+466,at the right time,Sequential,Timing,1.2,1.3,3.7,2.5,1.5,3,2.5,2.3
+467,aforementioned,Sequential,Transitionals,1.2,7.9,0.3,0.4,0.7,1.9,1.2,2.8
+468,culminate,Clarification,Emphasizing,1.2,1.4,0.1,0.3,1.8,0.7,0.8,0.7
+469,alright,Sequential,Emphasizing,1.2,0.3,802.1,1.7,1.6,0.6,86.4,4.3
+470,as an illustration of,Apposition,Exemplification,1.2,0.6,0,0,0.5,0.4,0.5,0.2
+471,viz,Apposition,Restatement,1.2,2,0.2,0,1.6,0.1,1.4,0.5
+472,for much of the time,Sequential,Timing,1.2,0,0.4,0,0.4,0.1,0.6,0.1
+473,shortly,Sequential,Ordering,1.2,0.5,1.6,2.9,1.3,0.4,1.8,1.1
+474,rather better,Contrastive,Replacive,1.1,0.1,1.5,0.1,0.9,0.1,1.1,0.1
+475,it is inevitable that,Clarification,Corroborative,1.1,0.5,0.5,0.1,1,0.2,0.8,0.2
+476,last,Sequential,Transitionals,1.1,13,3.5,19.2,0.8,23.7,35.2,28.1
+477,plus,Additive,Reinforcing,1.1,0.9,6.3,1.3,0.7,2.3,1.6,1.5
+478,one result of,Consequential,Causative,1.1,0.8,0,0.2,0.7,0.4,0.4,0.4
+479,now and then,Sequential,Timing,1.1,1.9,5.9,6.4,2.4,5.9,5.2,8.1
+480,the following week,Sequential,Transitionals,1.1,0.9,4,0.6,2.5,1.4,2.6,1.2
+481,after a time,Sequential,Transitionals,1,0.5,0.7,0.2,0.7,0.3,1.6,1
+482,all at once,Sequential,Timing,1,0,2.9,2.4,1.8,4.1,3.8,5.3
+483,after a while,Sequential,Transitionals,1,1.3,7.2,5.3,2.5,4.4,7.8,7.2
+484,of great value,Clarification,Emphasizing,1,0.7,0,0.1,1.6,0.2,0.9,0.3
+485,the climax of,Clarification,Emphasizing,1,0.8,0.3,0.3,1.3,0.7,1.3,0.6
+486,I assume,Clarification,Corroborative,1,1.2,9.5,12.6,0.9,1.5,3.1,4.9
+487,as a corollary,Consequential,Resultative,1,0.6,0.1,0,0.4,0.4,0.3,0.2
+488,put simply,Clarification,Corroborative,1,0.8,0,0.1,0.3,1.1,0.6,0.4
+489,by way of contrast,Contrastive,Antithetic,1,0.4,0,0,0.3,0.1,0.4,0.1
+490,that said,Contrastive,Concessive,0.9,3.4,4.1,19.7,1.7,10,2.9,10.9
+491,at any other time,Sequential,Timing,0.9,0.6,0.2,0.4,0.5,0.6,0.9,0.5
+492,just in case,Additive,Equative,0.9,0.7,13,4.2,1.7,3.7,5.4,4.4
+493,of considerable significance,Clarification,Emphasizing,0.9,0,0,0,0.1,0,0.2,0
+494,of little significance,Clarification,Emphasizing,0.9,0.1,0,0,0.4,0,0.3,0
+495,of no consequence,Clarification,Emphasizing,0.9,0.2,0.1,0.1,0.9,0.2,0.7,0.3
+496,with the passage of time,Sequential,Timing,0.9,0.9,0.1,0.2,1,0.3,0.6,0.4
+497,I am afraid,Clarification,Corroborative,0.9,1,0.5,1,1.5,0.8,3.1,1.3
+498,one effect of,Consequential,Causative,0.9,0.4,0.1,0.1,0.7,0.1,0.4,0.1
+499,oddly enough,Clarification,Corroborative,0.9,0.8,1.5,1.8,1.6,4.7,1.6,1.5
+500,to be honest,Clarification,Corroborative,0.9,0.9,23.2,11.1,1,18.6,5.6,5.2
+501,as revealed by,Apposition,Exemplification,0.9,0.5,0,0,0.6,0.2,0.3,0.2
+502,the example above,Apposition,Exemplification,0.9,0.3,0,0,0.4,0.1,0.3,0.1
+503,just,Clarification,Emphasizing,0.8,2.1,93,38.7,1,44.7,11.2,10.2
+504,prior to this,Sequential,Transitionals,0.8,1.6,0.9,1.4,1.1,0.5,1,0.8
+505,the previous example,Apposition,Exemplification,0.8,0.2,0,0,0.4,0,0.3,0
+506,despite that,Contrastive,Concessive,0.7,0.6,1.3,1.9,0.4,1.3,0.9,1.2
+507,all the while,Sequential,Timing,0.7,2.5,3.9,2,1.2,4,2.6,4.8
+508,meantime,Sequential,Transitionals,0.7,0.3,1.3,5.3,4.2,2.1,14.3,14.4
+509,some of the time,Sequential,Timing,0.7,0.8,0.7,0.7,0.6,0.7,0.6,0.7
+510,of some value,Clarification,Emphasizing,0.7,0.1,0,0,0.2,0,0.2,0
+511,in actual fact,Clarification,Corroborative,0.7,0.3,16,0.2,0.4,0.1,2.3,0.2
+512,tentatively,Clarification,Corroborative,0.7,0.4,0,0.1,0.2,0.3,0.6,0.6
+513,to tell the truth,Clarification,Corroborative,0.7,0.6,0.1,4.5,0.9,1.5,1.5,2.5
+514,for one thing,Apposition,Exemplification,0.7,0.4,0.5,0.4,0.4,1.9,4.4,7.7
+515,for the last time,Sequential,Transitionals,0.6,0.5,0.4,1.2,1.3,1.3,2.6,1.7
+516,henceforward,Sequential,Transitionals,0.6,0.2,0,0,1.7,0.1,0.6,0.1
+517,in the same time,Sequential,Timing,0.6,0.6,0.3,0.4,0.4,0.4,0.3,0.4
+518,circa,Comparison,,0.6,3.2,0.1,0.3,1.5,4.5,2.3,2.8
+519,the example below,Apposition,Exemplification,0.6,0.1,0,0,2.4,0,0.5,0
+520,henceforth,Sequential,Transitionals,0.5,0.2,0,0,0.9,0.1,3.3,1.2
+521,in such a manner as,Clarification,Emphasizing,0.5,0.4,0,0,0.7,0,0.3,0.1
+522,just then,Sequential,Transitionals,0.5,0.7,1.8,0.9,0.5,1.8,3.2,5.2
+523,little by little,Sequential,Transitionals,0.5,0.7,0.2,1.3,0.7,1.3,0.8,1.4
+524,under the circumstances,Consequential,Resultative,0.5,1.3,1.1,2.4,0.7,1.1,1.1,1.8
+525,thereby,Consequential,Resultative,0.5,0.1,0,0,0.1,0,0.1,0
+526,on top of that,Additive,Reinforcing,0.5,0.4,4.1,4.6,0.8,2.3,1.7,2.3
+527,now and again,Sequential,Timing,0.5,0.3,11.2,0.9,1.9,0.8,4.1,1.3
+528,in a nutshell,Consequential,Resultative,0.5,0.9,1.2,1.5,0.4,1.6,0.8,1.3
+529,for long periods of time,Sequential,Transitionals,0.5,1,0.4,0.6,0.7,0.7,0.5,0.7
+530,there was a time,Sequential,Timing,0.5,0.7,1.7,4.1,1.2,3.1,1.8,2.8
+531,contrariwise,Contrastive,Antithetic,0.5,0.1,0,0,0.1,0.1,0.2,0.1
+532,time and time again,Sequential,Timing,0.5,0.7,2.7,4,1.9,1,1.8,1.5
+533,it was at this time,Sequential,Timing,0.4,0.2,0.1,0.1,0.9,0.1,0.5,0.1
+534,by all means,Clarification,Emphasizing,0.4,0.6,5.2,1.4,0.7,1.2,1.8,1.2
+535,ca.,Comparison,,0.4,2.6,0.1,0.1,0.1,1.4,0.2,1.1
+536,mind you,Sequential,Emphasizing,0.4,0.3,84.4,2,1.5,1.8,14.1,1.9
+537,to illustrate,Apposition,Exemplification,0.4,1.4,0.1,0.1,0.2,0.2,0.4,0.4
+538,regarding,Clarification,Emphasizing,0.4,1.1,0.1,0.2,0.1,0.1,0.1,0.3
+539,all of the time,Sequential,Timing,0.3,1,0.5,1.7,1,0.8,0.6,1
+540,separate and distinct from,Comparison,,0.3,0.1,0,0.1,0.1,0,0.1,0
+541,of doubtful value,Clarification,Emphasizing,0.3,0,0,0,0.2,0,0.1,0
+542,not long ago,Sequential,Transitionals,0.3,1.1,1.6,2.7,1.1,4.1,1,2.8
+543,of major interest,Clarification,Emphasizing,0.3,0.1,0,0,0.1,0,0.1,0
+544,of overriding importance,Clarification,Emphasizing,0.3,0.1,0,0,0.1,0,0.1,0
+545,up until now,Clarification,Generalization,0.3,0.3,0.9,3.3,0.7,0.6,0.7,1.2
+546,of real value,Clarification,Emphasizing,0.3,0.1,0,0,0.1,0.1,0.1,0.1
+547,add to that,Clarification,Emphasizing,0.3,0.5,2.8,4,0.4,1.7,1.1,1.7
+548,OK,Clarification,Corroborative,0.3,0.9,0.5,5,0.7,1.6,1.2,1.9
+549,owing to the fact that,Consequential,Causative,0.3,0.1,0.1,0,0.2,0,0.2,0.1
+550,in every aspect,Clarification,Corroborative,0.3,0.6,0.3,0.6,0.4,0.6,0.4,0.5
+551,supposedly,Clarification,Corroborative,0.3,0.3,0.7,1.6,0.2,0.5,0.3,0.7
+552,be exact,Apposition,Restatement,0.3,0.4,0.8,1.1,0.5,1.1,0.7,1.1
+553,apropos,Consequential,Resultative,0.3,0.8,0,0.4,0.1,0.5,0.3,0.6
+554,arising out of this,Consequential,Resultative,0.3,0,0.3,0,0.1,0,0.1,0
+555,in such an event,Consequential,Resultative,0.3,0.1,0,0,0.1,0,0.2,0
+556,a different aspect,Comparison,,0.3,0.3,0.1,0.1,0.2,0.1,0.3,0.1
+557,another distinction,Contrastive,Concessive,0.3,0.2,0,0.1,0.1,0.1,0.1,0.1
+558,incongruously,Comparison,,0.3,0.3,0,0,0.6,1.2,0.9,0.5
+559,as a matter of fact,Contrastive,Concessive,0.2,0.1,0.3,0,0.2,0.1,3.9,7
+560,technically speaking,Clarification,Corroborative,0.2,0.3,0.2,0.1,0,0.3,0.2,0.2
+561,afore,Sequential,Transitionals,0.2,0.1,3.3,0,0.4,0,1.1,0.2
+562,a rare example of,Apposition,Exemplification,0.2,0.1,0,0,0.2,0.1,0.2,0.1
+563,of equal weight,Clarification,Emphasizing,0.2,0.1,0,0,0.2,0,0.1,0
+564,of less significance,Clarification,Emphasizing,0.2,0,0,0,0.1,0,0.1,0
+565,of most value,Clarification,Emphasizing,0.2,0,0,0,0.3,0,0.1,0
+566,of profound importance,Clarification,Emphasizing,0.2,0,0,0,0.2,0,0.1,0
+567,of strategic importance,Clarification,Emphasizing,0.2,0.2,0.4,0,0,0,0.1,0.1
+568,as a matter of fact,Clarification,Emphasizing,0.2,0.2,1.7,3.6,0.3,0.2,3.9,7
+569,in just this way,Additive,Equative,0.2,0.1,0,0,0.2,0,0.1,0.1
+570,the chief characteristics,Clarification,Emphasizing,0.2,0,0,0,0.1,0,0.1,0
+571,hypothetically,Clarification,Corroborative,0.2,0.4,0,0.4,0.1,0.2,0.1,0.3
+572,not... either,Additive,Reinforcing,0.2,0.1,0,0.1,0.1,0,0.1,0.1
+573,to be frank,Clarification,Corroborative,0.2,0.1,0.3,0.5,0.1,1.2,0.5,0.4
+574,by way of comparison,Contrastive,Antithetic,0.2,0.2,0.1,0.1,0.1,0.1,0.1,0.1
+575,as to,Clarification,Emphasizing,0.2,0,0.8,0.5,0,0,0.1,0.1
+576,for another thing,Sequential,Ordering,0.1,0.2,0.2,0.2,0.2,0.1,0.2,0.2
+577,practically speaking,Clarification,Corroborative,0.1,0.6,0,0.3,0,0.2,0,0.3
+578,a notable example of,Apposition,Exemplification,0.1,0.1,0,0,0.1,0,0.1,0
+579,academically,Clarification,Corroborative,0.1,0.9,0.1,0.4,0.6,0.7,0.3,0.5
+580,another interesting aspect,Additive,Reinforcing,0.1,0.1,0,0,0.2,0,0.1,0
+581,and all the time,Sequential,Timing,0.1,0.1,1.5,0.4,0.4,0.1,1.3,0.3
+582,as distinct as,Comparison,,0.1,0.1,0,0,0.1,0.1,0,0.1
+583,as a final point,Sequential,Transitionals,0.1,0.1,0.2,0,0.1,0,0.1,0
+584,aside from this,Additive,Reinforcing,0.1,0.1,0,0.1,0,0.1,0.1,0.1
+585,in a year's time,Sequential,Transitionals,0.1,0,0.8,0.2,0.2,0.1,0.5,0.1
+586,in the fullness of time,Sequential,Transitionals,0.1,0.1,0.7,0.1,0.6,0.1,0.4,0.1
+587,it is an undeniable fact that,Clarification,Corroborative,0.1,0,0,0,0,0,0,0
+588,last of all,Sequential,Transitionals,0.1,0.1,0.2,0.1,0.1,0.1,0.3,0.2
+589,of primary concern,Clarification,Emphasizing,0.1,0.4,0,0,0.1,0.1,0,0.1
+590,one particular feature,Clarification,Generalization,0.1,0,0,0,0,0,0.1,0
+591,time to move on,Sequential,Transitionals,0.1,0.2,0,1.1,0.2,0.7,0.3,0.7
+592,the most worrying aspect,Clarification,Generalization,0.1,0,0,0,0.1,0,0,0
+593,the preferred mode of,Clarification,Generalization,0.1,0.1,0,0,0,0.1,0,0.1
+594,just one aspect,Additive,Equative,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1
+595,the main issue is,Clarification,Emphasizing,0.1,0.1,0.1,0.2,0,0.1,0,0.1
+596,the major point,Clarification,Emphasizing,0.1,0.1,0,0.1,0.1,0,0.1,0.1
+597,the most necessary,Clarification,Emphasizing,0.1,0.1,0.2,0,0.1,0,0,0.1
+598,whereby,Consequential,Resultative,0.1,0,0.3,0.1,0.2,0,0.1,0
+599,piece by piece,Additive,Reinforcing,0.1,0.3,0.4,1,0.3,2.4,0.3,0.8
+600,cap it,Additive,Reinforcing,0.1,0,0.4,0.2,0.1,0.2,0.4,0.1
+601,crown it all,Additive,Reinforcing,0.1,0,0.1,0,0.1,0,0.1,0
+602,oh,Clarification,Corroborative,0.1,0.1,56.8,0.4,1.6,0.2,6.3,0.3
+603,to be truthful,Clarification,Corroborative,0.1,0.1,0.3,0.6,0.2,0.2,0.2,0.3
+604,what I am saying is,Clarification,Corroborative,0.1,0.1,0.7,0.5,0.1,0.1,0.2,0.2
+605,resume,Summation,,0.1,0.3,0.2,1.2,0.1,1.1,0.2,0.8
+606,the principal characteristics,Clarification,Generalization,0.1,0,0,0,0.1,0,0,0
+607,comparatively speaking,Clarification,Corroborative,0.1,0.1,0.1,0.1,0,0.1,0.1,0.1
+608,oppositely,Contrastive,Antithetic,0.1,0.3,0,0,0.4,0.1,0.1,0.1
+609,put it bluntly,Apposition,Restatement,0.1,0.2,0.2,0.4,0.2,0.3,0.2,0.3
+610,put it mildly,Apposition,Restatement,0.1,0.3,0.5,0.8,0.6,0.6,0.4,0.5
+611,in a very short time,Sequential,Transitionals,0.1,0.3,0.2,0.3,0.5,0.3,0.4,0.3
+612,after a short time,Sequential,Transitionals,0.1,0.2,0,0,0.2,0.1,0.3,0.1
+613,afterward,Sequential,Ordering,0.1,6.5,0.5,3.6,0.7,23.2,0.4,17.1
+614,to top it all,Sequential,Timing,0.1,0,0.2,0.1,0.2,0.2,0.2,0.2
+615,a striking difference,Contrastive,Antithetic,0.1,0.1,0,0.1,0.2,0,0.1,0.1
+616,else,Contrastive,Concessive,0,7,0,10.8,0,50.1,21.9,26.9
+617,second of all,Sequential,Ordering,0,0,0.2,2.7,0,0.1,0,0.7
+618,in spite of that,Contrastive,Concessive,0,0.1,0.2,0.6,0.1,0.1,0.3,0.3
+619,bar none,Clarification,Emphasizing,0,0,0.1,0.3,0.1,0.3,0.1,0.2
+620,without a doubt,Apposition,Restatement,0,1.1,1.6,3.3,0.1,2,0.7,2
+621,by the by,Sequential,Transitionals,0,0,1.4,0,0,0.1,0.3,0.1
+622,with all due respect,Clarification,Generalization,0,0.1,1.4,6,0,0.7,0.3,1.8
+623,top it off,Additive,Reinforcing,0,0.1,0,0.4,0,0.7,0,0.5
+624,as of yet,Sequential,Transitionals,0,0.3,0,0.8,0,0.2,0,0.4
+625,as I was saying,Clarification,Corroborative,0,0.1,3.5,0.9,0.1,0.1,0.8,0.5
+626,on top of it all,Additive,Reinforcing,0,0,0.1,0.1,0,0.2,0.1,0.1
+627,get back to the point,Summation,,0,0,0.2,0.2,0.1,0,0,0.1
+628,okay,Clarification,Corroborative,0,0.3,43.3,1.6,0.1,1.1,4.8,1.6
+629,what I mean is,Apposition,Restatement,0,0.1,1.4,0.7,0.1,0.2,0.7,0.6
+630,without a shadow of doubt,Clarification,Generalization,0,0,0.1,0,0,0,0.1,0
+631,it is about time,Sequential,Timing,0,0,0.1,0.2,0.1,0.2,0.3,0.1
+632,in a fortnight's time,Sequential,Transitionals,0,0,0.7,0,0,0,0.4,0
