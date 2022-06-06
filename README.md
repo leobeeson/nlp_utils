@@ -18,3 +18,14 @@ Roesler, David. “When a bug is not a bug: An introduction to the computer scienc
 Roesler, David. “When a bug is not a bug: An introduction to the computer science academic vocabulary list.” Journal of English for Academic Purposes 54 (2021): 101044.  
 [*alternative source*](https://www.eapfoundation.com/vocab/academic/other/csavl/)
 
+## Computer Science Word List (CSWL)
+[A Computer Science Word List](https://www.baleap.org/wp-content/uploads/2016/03/Daniel-Minshall.pdf)
+Minshall, Daniel E. "A Computer Science Word List." Masters thesis, Swansea University, 2013.  
+[*alternative source*](https://www.eapfoundation.com/vocab/academic/other/csavl/)  
+
+
+## Computer Science Multi-Word List (CSMWL)
+[A Computer Science Word List](https://www.baleap.org/wp-content/uploads/2016/03/Daniel-Minshall.pdf)
+Minshall, Daniel E. "A Computer Science Word List." Masters thesis, Swansea University, 2013.  
+[*alternative source*](https://www.eapfoundation.com/vocab/academic/other/csavl/)
+
