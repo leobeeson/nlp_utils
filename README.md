@@ -30,7 +30,7 @@ Minshall, Daniel E. "A Computer Science Word List." Masters thesis, Swansea Univ
 [*alternative source*](https://www.eapfoundation.com/vocab/academic/other/csavl/)
 
 ## Stack Exchange Tags List
-[Query Editor](https://data.stackexchange.com/stackoverflow/query/edit/1602765)
+[Query Editor](https://data.stackexchange.com/stackoverflow/query/edit/1602765)  
 Query:
 ```SQL
 select 
